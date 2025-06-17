@@ -15,7 +15,6 @@ This model was developed to move beyond threshold-based switchback catalogs by e
 
 The base ParkerNet model architecture and weights are unchanged in this release. The **v1.1 update** includes new notebook documentation, cross-instrument evaluations using SPAN-I, and robustness tests.
 
-See the [Model Card](./Model_Card_ParkerNet_v1.0.md) for full technical details, limitations, and citations.
 
 ---
 
