@@ -1,6 +1,7 @@
 # 🌟 ParkerNet: A Deep Learning Tool for Switchback Classification in Parker Solar Probe Data 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902722.svg)](https://doi.org/10.5281/zenodo.14902722)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902721.svg)](https://doi.org/10.5281/zenodo.14902721)  
+[10.5281/zenodo.14902721](https://doi.org/10.5281/zenodo.14902721)
 
 **ParkerNet v1.0** is the original model architecture and weights.
 **Notebook Version 1.1** refers to updated documentation, robustness testing, and visualization.
@@ -97,8 +98,15 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 **ParkerNet Version 1.0** is our base model, we have future improvements planned, including adding **explainable AI** and upgraded capabilities. 
 
+---
 
-**If you use ParkerNet in your work, please cite the appropriate model version and its corresponding Zenodo DOI listed above.**
+## Cite this Repository
+
+If you use ParkerNet in your work, please cite the appropriate model version:
+
+- Zenodo Concept DOI (all versions): [10.5281/zenodo.14902721](https://doi.org/10.5281/zenodo.14902721)  
+- Specific release (e.g., v1.1): [10.5281/zenodo.15684176](https://doi.org/10.5281/zenodo.15684176)
+
 
 ---
 
