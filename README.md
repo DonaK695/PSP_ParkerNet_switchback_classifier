@@ -77,8 +77,7 @@ You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" f
 
 
 **📌 Instruction for using Notebook 4:** 
-⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
-(https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
+⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
 
 
 📜 **Notes for user:** 
