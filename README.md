@@ -31,29 +31,32 @@ For full model details, see the [Model Card](https://github.com/DonaK695/PSP_Par
 This repository contains **three** subfolders containing **four** Jupyter Notebooks, and accompanying datasets. The subfolders contain the following:  
 
 - 📂 ParkerNet_Training: Subfolder containing Jupyter Notebook needed for training ParkerNet
+	
 	📜 **ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3**  
-	🔹 **Train ParkerNet** with different **seeds** and **train-validation splits**. 
+	- **Train ParkerNet** with different **seeds** and **train-validation splits**. 
 	
 
 
 - 📂 ParkerNet_Ensemble_Prediction: Subfolder containing Jupyter notebook needed to perform ensemble prediction on new (prediction) datasets.
+	
 	📜 **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb**  
-	🔹 Computes **ensemble (weighted average) predictions** from **71 pre-trained ParkerNet models**.  
-	🔹 Includes **datasets for prediction**, or use your own data! 
+	- Computes **ensemble (weighted average) predictions** from **71 pre-trained ParkerNet models**.  
+	- Includes **datasets for prediction**, or use your own data! 
 
 
 
 - 📂 ParkerNet_ApJS_Figures: Data Visualization & Figures  
+	
 	📜 **ParkerNet_ApJS_Figures/ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3.ipynb**  
-	🔹 Reproduce figures from the research paper:  
+	- Reproduce figures from the research paper:  
 		 *"An Iterative, Deep Learning Approach for Switchback Classification in Parker Solar Probe Data"* 📊 
-	🔹 Includes **datasets needed to recreate figures**.
+	- Includes **datasets needed to recreate figures**.
 
 	📜 **ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb**   
 
-	🔹 Provides code to perform occlusion and AUC-PRC comparison between MAG + SPC and MAG + SPANI datasets.
+	- Provides code to perform occlusion and AUC-PRC comparison between MAG + SPC and MAG + SPANI datasets.
 
-	🔹 Recreates figures shown in Appendix A.
+	- Recreates figures shown in Appendix A.
 
 ---
 
@@ -94,4 +97,4 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 **ParkerNet Version 1.0** is our base model, we have future improvements planned, including adding **explainable AI** and upgraded capabilities. 
 
 
-If you use ParkerNet in your work, please cite the appropriate model version and its corresponding Zenodo DOI listed above.
+**If you use ParkerNet in your work, please cite the appropriate model version and its corresponding Zenodo DOI.** listed above.
