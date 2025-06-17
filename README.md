@@ -11,7 +11,7 @@ To install all required packages, run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 🔥 Project Highlights  
 Switchbacks—**abrupt disturbances or reversals in the radial magnetic field of the solar wind**—have been extensively studied since NASA’s **Parker Solar Probe (PSP)** mission. These disturbances could hold the key to understanding how the **solar wind is heated and accelerated**.  
@@ -55,6 +55,7 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 	🔹 Recreates figures shown in Appendix A.
 
+---
 
 **General Instructions**
 
@@ -64,6 +65,8 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 *Note : you will have to adjust the data loading code but that's about it (provide path to your folder containing the repo files). The notebooks contain detailed instructions and will also tell you what files are needed.*
 
 **For Notebooks 1,2 and 4**: You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902750.svg)](https://doi.org/10.5281/zenodo.14902750)   
+
+---
 
 **📌 Instructions for using Notebook 1:** 
 
@@ -84,10 +87,11 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 ⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
 
+---
 
 📜 **Notes for user:** 
 
-**ParkerNet Version 1.0**is our base model, we have future improvements planned, including adding **explainable AI** and upgraded capabilities. 
+**ParkerNet Version 1.0** is our base model, we have future improvements planned, including adding **explainable AI** and upgraded capabilities. 
 
 
-If using ParkerNet in your work, please cite the model version used and the Zenodo DOI associated with the release. 
+If you use ParkerNet in your work, please cite the appropriate model version and its corresponding Zenodo DOI listed above.
