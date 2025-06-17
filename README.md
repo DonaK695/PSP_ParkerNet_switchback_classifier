@@ -5,6 +5,13 @@
 **ParkerNet v1.0** is the original model architecture and weights.
 **Notebook Version 1.1** refers to updated documentation, robustness testing, and visualization.
 
+## Installation
+
+To install all required packages, run:
+
+```bash
+pip install -r requirements.txt
+
 
 ## 🔥 Project Highlights  
 Switchbacks—**abrupt disturbances or reversals in the radial magnetic field of the solar wind**—have been extensively studied since NASA’s **Parker Solar Probe (PSP)** mission. These disturbances could hold the key to understanding how the **solar wind is heated and accelerated**.  
@@ -28,16 +35,12 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 	🔹 **Train ParkerNet** with different **seeds** and **train-validation splits**. 
 	
 
-*Note: A large file needed to run Notebook 1 is archived on Zenodo. See "Instructions for using Notebook1" below.*
-
-
 
 - 📂 ParkerNet_Ensemble_Prediction: Subfolder containing Jupyter notebook needed to perform ensemble prediction on new (prediction) datasets.
 	📜 **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb**  
 	🔹 Computes **ensemble (weighted average) predictions** from **71 pre-trained ParkerNet models**.  
 	🔹 Includes **datasets for prediction**, or use your own data! 
 
-*Note: A large file needed to run Notebook 2 is archived on Zenodo. See "Instructions for using Notebook1" below.*
 
 
 - 📂 ParkerNet_ApJS_Figures: Data Visualization & Figures  
@@ -60,24 +63,25 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 *Note : you will have to adjust the data loading code but that's about it (provide path to your folder containing the repo files). The notebooks contain detailed instructions and will also tell you what files are needed.*
 
+**For Notebooks 1,2 and 4**: You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902750.svg)](https://doi.org/10.5281/zenodo.14902750)   
 
-**📌 Instructions for using Notebook 1:**
-You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902750.svg)](https://doi.org/10.5281/zenodo.14902750)   
+**📌 Instructions for using Notebook 1:** 
 
 ⚙️ To Open **ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3** in Google Colab, click here :[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3.ipynb)
 
 
 **📌 Instructions for using Notebook 2:** 
-You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902750.svg)](https://doi.org/10.5281/zenodo.14902750) 
 
 ⚙️To open **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI** in Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb) 
 
 
 **📌 Instruction for using Notebook 3:** 
+
 ⚙️To open **ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3.ipynb)
 
 
 **📌 Instruction for using Notebook 4:** 
+
 ⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
 
 
