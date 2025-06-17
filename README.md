@@ -73,23 +73,23 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 **📌 Instructions for using Notebook 1:** 
 
-⚙️ To Open **ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3**, click here :[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3.ipynb)
+⚙️ To Open **ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3**, click here :[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Training/ParkerNet_Version1_1_Training_ApJS_Notebook1of3.ipynb)
 
 
 **📌 Instructions for using Notebook 2:** 
 
 ⚙️To open **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI**, click here:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb)
 
 
 **📌 Instruction for using Notebook 3:** 
 
-⚙️To open **ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3**, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3.ipynb)
+⚙️To open **ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3**, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_DataViz_Figures_ApJS_Notebook3of3.ipynb)
 
 
 **📌 Instruction for using Notebook 4:** 
 
-⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures**, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
+⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures**, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
 
 ---
 
