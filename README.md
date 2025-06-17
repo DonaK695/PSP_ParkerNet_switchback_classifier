@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14902722.svg)](https://doi.org/10.5281/zenodo.14902722)
 
+**ParkerNet v1.0** is the original model architecture and weights.
+**Notebook Version 1.1** refers to updated documentation, robustness testing, and visualization.
+
+
 ## 🔥 Project Highlights  
 Switchbacks—**abrupt disturbances or reversals in the radial magnetic field of the solar wind**—have been extensively studied since NASA’s **Parker Solar Probe (PSP)** mission. These disturbances could hold the key to understanding how the **solar wind is heated and accelerated**.  
 
@@ -40,8 +44,11 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 	🔹 Reproduce figures from the research paper:  
 		 *"An Iterative, Deep Learning Approach for Switchback Classification in Parker Solar Probe Data"* 📊 
 	🔹 Includes **datasets needed to recreate figures**.
+
 	📜 **ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb**   
+
 	🔹 Provides code to perform occlusion and AUC-PRC comparison between MAG + SPC and MAG + SPANI datasets.
+
 	🔹 Recreates figures shown in Appendix A.
 
 
@@ -70,7 +77,7 @@ You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" f
 
 
 **📌 Instruction for using Notebook 4:** 
-⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+⚙️To open **ParkerNet_Version1_1_ApJS_Appendix_B_Figures** in Google Colab, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
 (https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_ApJS_Figures/ParkerNet_Version1_1_ApJS_Appendix_B_Figures.ipynb)
 
 
@@ -79,4 +86,4 @@ You will need to obtain the training data file "PSP_E1toE7_July23_nonoise.txt" f
 **ParkerNet Version 1.0**is our base model, we have future improvements planned, including adding **explainable AI** and upgraded capabilities. 
 
 
-If using ParkerNet in your work, please cite the model version used and the Zenodo DOI associated with the release. All code is written and maintained by Dona C.P. Kuruppuaratchi.
+If using ParkerNet in your work, please cite the model version used and the Zenodo DOI associated with the release. 
