@@ -15,7 +15,8 @@ In this project, we introduce **ParkerNet**—a **Deep Learning model** designed
 - **Quickly classifies switchbacks** in PSP data.  
 - **ParkerNet Version 1.0** is introduced here.
 
-**For Model usage see**:📄 [Model Card](./Model_Card_ParkerNet_ v1.0.md)  
+For full model details, see the [Model Card](https://github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/Model_Card_ParkerNet_v1.0.md)
+
 
 ---  
 
