@@ -78,7 +78,7 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 **📌 Instructions for using Notebook 2:** 
 
-⚙️To open **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI**, click here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb) 
+⚙️To open **ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI**, click here: [![Open in Colab (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DonaK695/PSP_ParkerNet_switchback_classifier/blob/main/ParkerNetVersion01/ParkerNet_Ensemble_Prediction/ParkerNet_Version1_1_Ensemble_Prediction_ApJS_Notebook2of3_SPC_SPANI.ipynb) 
 
 
 **📌 Instruction for using Notebook 3:** 
@@ -98,3 +98,10 @@ This repository contains **three** subfolders containing **four** Jupyter Notebo
 
 
 **If you use ParkerNet in your work, please cite the appropriate model version and its corresponding Zenodo DOI listed above.**
+
+---
+
+## Author and Maintainer
+
+This project is developed and maintained by **Dona Chathuni P. Kuruppuaratchi**.  
+For questions or contributions, please open an issue or submit a pull request.
