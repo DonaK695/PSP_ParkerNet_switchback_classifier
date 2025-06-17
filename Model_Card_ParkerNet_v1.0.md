@@ -78,7 +78,7 @@ These results suggest that ParkerNet downweights or ignores unreliable features 
 
 If you use ParkerNet in your work, please cite:
 
-> Kuruppuaratchi, D. C., et al. (2025), "An Iterative, Deep Learning Approach for Switchback Classification in Parker Solar Probe Data", *The Astrophysical Journal Supplement Series*.
+> "An Iterative, Deep Learning Approach for Switchback Classification in Parker Solar Probe Data" by Dona Kuruppuaratchi, associated with manuscript number :AAS63074. 
 
 Additionally, cite the model version used and cite the Zenodo DOI associated with the release.
 
